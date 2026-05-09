@@ -16,6 +16,10 @@ public class StudentEntity {
 	private String email;
 	private String course;
 	private String timings;
+
+	public StudentEntity(){
+		System.out.println("StudentEntity defualt constructor....");
+	}
 	public Integer getSid() {
 		return sid;
 	}
