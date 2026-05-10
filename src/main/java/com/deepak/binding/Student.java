@@ -12,6 +12,12 @@ public class Student {
 	private String name;
 	private String email;
 	private String course;
+
+public Student(){
+	System.out.println("Student defualt constructor...");
+}
+
+
 	private String[] timings;
 	
 	
