@@ -17,9 +17,6 @@ public Student(){
 	System.out.println("Student defualt constructor...");
 
 	System.out.println("####################");
-
-	System.out.println("*******************");
-
 }
 
 
