@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 class Student{
 
 		
@@ -6,9 +6,8 @@ class Student{
 	System.out.println("Student default constructor.....");
 }
 
-=======
 class hello{
 
 System.out.println("hello guys .....");
->>>>>>> Stashed changes
+
 }
