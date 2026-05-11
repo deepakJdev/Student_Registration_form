@@ -1,0 +1,13 @@
+
+class Student{
+
+		
+	public Student(){
+	System.out.println("Student default constructor.....");
+}
+
+class hello{
+
+System.out.println("hello guys .....");
+
+}
