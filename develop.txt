@@ -11,3 +11,8 @@ class hello{
 System.out.println("hello guys .....");
 
 }
+class Teacher{
+
+System.out.println("Teacher class .....");
+
+}
